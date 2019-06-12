@@ -90,7 +90,7 @@ And you can check that the annotations were converted properly by using the foll
 $ python check_annotation.py /opt/dataset/fish/238a0bdf53527e7f.jpg
 ```
 
-![image](/uploads/cc1163693326e4ed7fb529fb7d022382/image.png)
+![image](/images/fish3.png)
 
 All right! dataset seems to be ready to star the training.
 
